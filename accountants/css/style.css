@@ -1,0 +1,42 @@
+body {
+  background: rgb(17, 102, 101);
+  font-family: "Fira Sans", sans-serif;
+}
+.logo img {
+  text-align: center;
+  width: 50vh;
+  margin-top: 110px;
+  padding-bottom: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.text h2 {
+  color: rgba(250, 181, 71, 0.932);
+  font-size: 70px;
+  text-align: center;
+  padding-top: 15px;
+}
+hr {
+  display: block;
+  margin-top: 2.5em;
+  margin-bottom: 0.5em;
+  margin-left: 145px;
+  margin-right: 145px;
+  border-style: inset;
+  border-width: 1px;
+  background-color: rgba(252, 247, 247, 0.363)0, 0, 0, 0.774);
+}
+.contact {
+  color: white;
+  padding-top: 25px;
+  font-weight: 100;
+  text-align: center;
+  top: 45px;
+}
+
+.contact p {
+  margin-bottom: 0;
+}
